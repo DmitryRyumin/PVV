@@ -1,0 +1,192 @@
+# oidv6 Russian translation.
+# Copyright (C) 2020 Dmitry Ryumin
+# Dmitry Ryumin <dl_03.03.1991@mail.ru>, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"POT-Creation-Date: 2020-06-10 22:27+0300\n"
+"PO-Revision-Date: 2020-06-10 22:34+0300\n"
+"Last-Translator: Dmitry Ryumin <dl_03.03.1991@mail.ru>\n"
+"Language-Team: Russian <dl_03.03.1991@mail.ru>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+
+
+#: pvv/modules/core/config.py:168
+msgid ""
+"[{}] Запуск: \n"
+"    Автор: {}\n"
+"    Email: {}\n"
+"    Сопровождающие: {}\n"
+"    Версия: {}"
+msgstr ""
+
+#: pvv/samples/play.py:66
+msgid "повтор"
+msgstr ""
+
+#: pvv/samples/play.py:69
+msgid "[{}] Загрузка шрифта ..."
+msgstr ""
+
+#: pvv/samples/play.py:70
+msgid "[{}{}{}] Шрифт не найден ..."
+msgstr ""
+
+#: pvv/samples/play.py:71
+msgid "[{}{}{}] Шрифт не загружен ..."
+msgstr ""
+
+#: pvv/samples/play.py:73
+msgid "Ошибка в конфигурационном файле ..."
+msgstr ""
+
+#: pvv/samples/play.py:74
+msgid "Информация отображается в окне воспроизведения ..."
+msgstr ""
+
+#: pvv/modules/core/config.py:172
+msgid "[{}{}{}] Неверные типы аргументов в \"{}\" ..."
+msgstr ""
+
+#: pvv/modules/core/config.py:174
+msgid "[{}{}{}] Необходимые значения в командной строке не найдены ..."
+msgstr ""
+
+#: pvv/modules/core/core.py:54
+msgid "Воспроизведение фото/видео данных"
+msgstr ""
+
+#: pvv/modules/filem/file_manager.py:33
+msgid "[{}] Поиск \"{}\" файла ..."
+msgstr ""
+
+#: pvv/modules/filem/file_manager.py:34
+msgid "[{}{}{}] Необходимо указать название {} файла ..."
+msgstr ""
+
+#: pvv/modules/filem/file_manager.py:35
+msgid "[{}{}{}] Передана директория за место файла ..."
+msgstr ""
+
+#: pvv/modules/filem/file_manager.py:36
+msgid "[{}{}{}] Файл \"{}\" не найден ..."
+msgstr ""
+
+#: pvv/modules/filem/file_manager.py:37
+msgid "[{}] Файл \"{}\" не найден, но был создан ..."
+msgstr ""
+
+#: pvv/modules/filem/file_manager.py:38
+msgid "[{}{}{}] Расширение файла должно быть \"{}\" ..."
+msgstr ""
+
+#: pvv/modules/filem/file_manager.py:40
+msgid "[{}] Очистка директории \"{}\" ..."
+msgstr ""
+
+#: pvv/modules/filem/file_manager.py:41
+msgid "[{}{}{}] Директория \"{}\" не найдена ..."
+msgstr ""
+
+#: pvv/modules/filem/file_manager.py:43
+msgid "[{}] Загрузка данных из файла \"{}\" ..."
+msgstr ""
+
+#: pvv/modules/filem/json.py:35
+msgid "[{}] Загрузка данных из ресурсов ..."
+msgstr ""
+
+#: pvv/modules/filem/json.py:36
+msgid "[{}{}{}] Ресурс не найден ..."
+msgstr ""
+
+#: pvv/modules/filem/json.py:37
+msgid "[{}{}{}] Данные не загружены ..."
+msgstr ""
+
+#: pvv/modules/filem/json.py:38
+msgid "[{}{}{}] Файл пуст ..."
+msgstr ""
+
+#: pvv/samples/play.py:42
+msgid "{}{}PVV - Воспроизведение фото/видео данных ...{}"
+msgstr ""
+
+#: pvv/samples/play.py:44
+msgid "[{}] Запуск WEB камеры ..."
+msgstr ""
+
+#: pvv/samples/play.py:48
+msgid "[{}{}{}] Для запуска WEB-камеры необходимо указать --file {} ..."
+msgstr ""
+
+#: pvv/samples/play.py:45
+msgid "[{}] Запуск видео ..."
+msgstr ""
+
+#: pvv/samples/play.py:46
+msgid "[{}] Отображение фото ..."
+msgstr ""
+
+#: pvv/samples/play.py:47
+msgid "[{}{}{}] WEB-камера не найдена ..."
+msgstr ""
+
+#: pvv/samples/play.py:48
+msgid "[{}{}{}] Видео повреждено ..."
+msgstr ""
+
+#: pvv/samples/play.py:49
+msgid "[{}{}{}] Фото повреждено ..."
+msgstr ""
+
+#: pvv/samples/play.py:54
+msgid ""
+"[{}{}{}] Расширение файла для фото должно быть одним из:\n"
+"    \"{}\" (фото данные)\n"
+"    \"{}\" (видео данные)"
+msgstr ""
+
+#: pvv/samples/play.py:58
+msgid "[{}] Проверка данных на валидность ..."
+msgstr ""
+
+#: pvv/samples/play.py:131
+msgid "Путь к фото/видео файлу, значение по умолчанию:"
+msgstr ""
+
+#: pvv/samples/play.py:133
+msgid "Путь к конфигурационному файлу"
+msgstr ""
+
+#: pvv/samples/play.py:135
+msgid "Автоматическая проверка конфигурационного файла в момент работы программы (работает при заданном"
+msgstr ""
+
+#: pvv/samples/play.py:138
+msgid "Через какое количество шагов проверять конфигурационный файл (работает при --automatic_update, значение по умолчанию:"
+msgstr ""
+
+#: pvv/samples/play.py:141
+msgid "Не очищать консоль перед выполнением"
+msgstr ""
+
+#: pvv/viewer.py:36
+msgid "[{}{}{}] Данные не получены ..."
+msgstr ""
+
+#: pvv/viewer.py:37
+msgid "[{}] Программа закрыта ..."
+msgstr ""
+
+#: pvv/samples/play.py:135 pvv/samples/play.py:137
+msgid "ФАЙЛ"
+msgstr ""
+
+#: pvv/samples/play.py:139
+msgid "ЦЕЛОЕ_ЧИСЛО"
+msgstr ""

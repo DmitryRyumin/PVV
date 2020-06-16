@@ -1,0 +1,79 @@
+{
+    "hide_metadata": false,
+    "window_name": "Window",
+    "resize" : {
+        "width": 1280,
+        "height": 720
+    },
+    "info_text_color" : {
+        "red": 46,
+        "green": 46,
+        "blue": 46,
+        "alpha": 255
+    },
+    "info_background_color" : {
+        "red": 246,
+        "green": 246,
+        "blue": 246,
+        "alpha": 255
+    },
+    "info_size": 30,
+    "info_stroke" : 0,
+    "info_stroke_color" : {
+        "red": 255,
+        "green": 255,
+        "blue": 255,
+        "alpha": 255
+    },
+    "error_text_color" : {
+        "red": 246,
+        "green": 246,
+        "blue": 246,
+        "alpha": 255
+    },
+    "error_background_color" : {
+        "red": 150,
+        "green": 0,
+        "blue": 24,
+        "alpha": 255
+    },
+    "error_size": 32,
+    "error_stroke" : 0,
+    "error_stroke_color" : {
+        "red": 255,
+        "green": 255,
+        "blue": 255,
+        "alpha": 255
+    },
+    "repeat_text_color" : {
+        "red": 46,
+        "green": 46,
+        "blue": 46,
+        "alpha": 255
+    },
+    "repeat_background_color" : {
+        "red": 237,
+        "green": 201,
+        "blue": 103,
+        "alpha": 255
+    },
+    "repeat_size": 120,
+    "repeat_stroke" : 2,
+    "repeat_stroke_color" : {
+       "red": 255,
+       "green": 255,
+       "blue": 255,
+       "alpha": 255
+   },
+    "labels_base_coords": {
+        "left": 10,
+        "top": 10
+    },
+    "labels_padding": 10,
+    "labels_distance": 10,
+    "clear_image_buffer": true,
+    "real_time": true,
+    "repeat": false,
+    "fps": 60,
+    "show_labels": false
+}

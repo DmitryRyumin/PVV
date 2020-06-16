@@ -1,0 +1,200 @@
+# oidv6 English translation.
+# Copyright (C) 2020 Dmitry Ryumin
+# Dmitry Ryumin <dl_03.03.1991@mail.ru>, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"POT-Creation-Date: 2020-06-10 22:27+0300\n"
+"PO-Revision-Date: 2020-06-10 22:34+0300\n"
+"Last-Translator: Dmitry Ryumin <dl_03.03.1991@mail.ru>\n"
+"Language-Team: English <dl_03.03.1991@mail.ru>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+
+
+#: pvv/modules/core/config.py:168
+msgid ""
+"[{}] Запуск: \n"
+"    Автор: {}\n"
+"    Email: {}\n"
+"    Сопровождающие: {}\n"
+"    Версия: {}"
+msgstr ""
+"[{}] Start: \n"
+"    Author: {}\n"
+"    Email: {}\n"
+"    Maintainer: {}\n"
+"    Version: {}"
+
+#: pvv/samples/play.py:66
+msgid "повтор"
+msgstr "repeat"
+
+#: pvv/samples/play.py:69
+msgid "[{}] Загрузка шрифта ..."
+msgstr "[{}] Font download ..."
+
+#: pvv/samples/play.py:70
+msgid "[{}{}{}] Шрифт не найден ..."
+msgstr "[{}{}{}] Font not found ..."
+
+#: pvv/samples/play.py:71
+msgid "[{}{}{}] Шрифт не загружен ..."
+msgstr "[{}{}{}] Font not download ..."
+
+#: pvv/samples/play.py:73
+msgid "Ошибка в конфигурационном файле ..."
+msgstr "Error in configuration file ..."
+
+#: pvv/samples/play.py:74
+msgid "Информация отображается в окне воспроизведения ..."
+msgstr "Information is displayed in the playback window ..."
+
+#: pvv/modules/core/config.py:172
+msgid "[{}{}{}] Неверные типы аргументов в \"{}\" ..."
+msgstr "[{}{}{}] Invalid argument types in \"{}\" ..."
+
+#: pvv/modules/core/config.py:174
+msgid "[{}{}{}] Необходимые значения в командной строке не найдены ..."
+msgstr "[{}{}{}] Required command line values​not found ..."
+
+#: pvv/modules/core/core.py:54
+msgid "Воспроизведение фото/видео данных"
+msgstr "Playing photo/video data"
+
+#: pvv/modules/filem/file_manager.py:33
+msgid "[{}] Поиск \"{}\" файла ..."
+msgstr "[{}] Searching for the \"{}\" file ..."
+
+#: pvv/modules/filem/file_manager.py:34
+msgid "[{}{}{}] Необходимо указать название {} файла ..."
+msgstr "[{}{}{}] You must specify the name {} of the file ..."
+
+#: pvv/modules/filem/file_manager.py:35
+msgid "[{}{}{}] Передана директория за место файла ..."
+msgstr "[{}{}{}] The directory instead of the file is transferred ..."
+
+#: pvv/modules/filem/file_manager.py:36
+msgid "[{}{}{}] Файл \"{}\" не найден ..."
+msgstr "[{}{}{}] File \"{}\" not found ..."
+
+#: pvv/modules/filem/file_manager.py:37
+msgid "[{}] Файл \"{}\" не найден, но был создан ..."
+msgstr "[{}] File \"{}\" not found, but was created ..."
+
+#: pvv/modules/filem/file_manager.py:38
+msgid "[{}{}{}] Расширение файла должно быть \"{}\" ..."
+msgstr "[{}{}{}] The file extension must be \"{}\" ..."
+
+#: pvv/modules/filem/file_manager.py:40
+msgid "[{}] Очистка директории \"{}\" ..."
+msgstr "[{}] Directory Cleanup \"{}\" ..."
+
+#: pvv/modules/filem/file_manager.py:41
+msgid "[{}{}{}] Директория \"{}\" не найдена ..."
+msgstr "[{}{}{}] Directory \"{}\" not found ..."
+
+#: pvv/modules/filem/file_manager.py:43
+msgid "[{}] Загрузка данных из файла \"{}\" ..."
+msgstr "[{}] Loading data from a file \"{}\" ..."
+
+#: pvv/modules/filem/json.py:35
+msgid "[{}] Загрузка данных из ресурсов ..."
+msgstr "[{}] Loading data from resources ..."
+
+#: pvv/modules/filem/json.py:36
+msgid "[{}{}{}] Ресурс не найден ..."
+msgstr "[{}{}{}] Resource is not found ..."
+
+#: pvv/modules/filem/json.py:37
+msgid "[{}{}{}] Данные не загружены ..."
+msgstr "[{}{}{}] No data loaded ..."
+
+#: pvv/modules/filem/json.py:38
+msgid "[{}{}{}] Файл пуст ..."
+msgstr "[{}{}{}] File is empty ..."
+
+#: pvv/samples/play.py:42
+msgid "{}{}PVV - Воспроизведение фото/видео данных ...{}"
+msgstr "{}{}PVV - Playing photo/video data ...{}"
+
+#: pvv/samples/play.py:44
+msgid "[{}] Запуск WEB камеры ..."
+msgstr "[{}] Launching a WEB camera ..."
+
+#: pvv/samples/play.py:48
+msgid "[{}{}{}] Для запуска WEB-камеры необходимо указать --file {} ..."
+msgstr "[{}{}{}] To launch the WEB-camera, you must specify --file {} ..."
+
+#: pvv/samples/play.py:45
+msgid "[{}] Запуск видео ..."
+msgstr "[{}] Launching a video ..."
+
+#: pvv/samples/play.py:46
+msgid "[{}] Отображение фото ..."
+msgstr "[{}] Photo display ..."
+
+#: pvv/samples/play.py:47
+msgid "[{}{}{}] WEB-камера не найдена ..."
+msgstr "[{}{}{}] WEB camera not found ..."
+
+#: pvv/samples/play.py:48
+msgid "[{}{}{}] Видео повреждено ..."
+msgstr "[{}{}{}] Video is crashed ..."
+
+#: pvv/samples/play.py:49
+msgid "[{}{}{}] Фото повреждено ..."
+msgstr "[{}{}{}] Photo is crashed ..."
+
+#: pvv/samples/play.py:54
+msgid ""
+"[{}{}{}] Расширение файла для фото должно быть одним из:\n"
+"    \"{}\" (фото данные)\n"
+"    \"{}\" (видео данные)"
+msgstr ""
+"[{}{}{}] File extension for the photo must be one of:\n"
+"    \"{}\" (photo data)\n"
+"    \"{}\" (video data)"
+
+#: pvv/samples/play.py:58
+msgid "[{}] Проверка данных на валидность ..."
+msgstr "[{}] Validation of data ..."
+
+#: pvv/samples/play.py:131
+msgid "Путь к фото/видео файлу, значение по умолчанию:"
+msgstr "Path to photo/video file, default value:"
+
+#: pvv/samples/play.py:133
+msgid "Путь к конфигурационному файлу"
+msgstr "Path to configuration file"
+
+#: pvv/samples/play.py:135
+msgid "Автоматическая проверка конфигурационного файла в момент работы программы (работает при заданном"
+msgstr "Automatic verification of the configuration file at the time the program is running (it works with"
+
+#: pvv/samples/play.py:138
+msgid "Через какое количество шагов проверять конфигурационный файл (работает при --automatic_update, значение по умолчанию:"
+msgstr "How many steps to check the configuration file (works with --automatic_update, default value:"
+
+#: pvv/samples/play.py:141
+msgid "Не очищать консоль перед выполнением"
+msgstr "Do not clean the console before running"
+
+#: pvv/viewer.py:36
+msgid "[{}{}{}] Данные не получены ..."
+msgstr "[{}{}{}] Data not received ..."
+
+#: pvv/viewer.py:37
+msgid "[{}] Программа закрыта ..."
+msgstr "[{}] Program is closed ..."
+
+#: pvv/samples/play.py:135 pvv/samples/play.py:137
+msgid "ФАЙЛ"
+msgstr "FILE"
+
+#: pvv/samples/play.py:139
+msgid "ЦЕЛОЕ_ЧИСЛО"
+msgstr "INTEGER"
