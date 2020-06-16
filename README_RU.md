@@ -99,10 +99,18 @@ pip install --upgrade pvv
 
 <h4 align="center"><span style="color:#EC256F;">Примеры</span></h4>
 
-1. Загрузка классов (`apple`, `banana`, `Kitchen & dining room table`) из наборов `train`, `validation` и `test` с метками в полуавтоматическом режиме и лимитом изображений = `4` (Язык: `Русский`)
+1. Воспроизведение видео файла с автоматическим обновлением конфигурационного файла (Язык: `Русский`)
 
     > CMD
     >
     > ```shell script
-    > oidv6 downloader ru --dataset путь_к_директории --type_data all --classes apple banana "Kitchen & dining room table" --limit 4
+    > pvv_play ru --file путь_к_видео_файлу --config путь_к_конфигурационному_файлу --automatic_update
+    > ```
+
+2. Стриминг с WEB-камеры с автоматическим обновлением конфигурационного файла каждые 50 кадров (Язык: `Английский`)
+
+    > CMD
+    >
+    > ```shell script
+    > pvv_play ru --file 0 --config путь_к_конфигурационному_файлу --automatic_update  --frames_to_update 50
     > ```
