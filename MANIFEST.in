@@ -1,4 +1,5 @@
 include pvv/configs/*.json
+include pvv/configs/fonts/SegoeUI.ttf
 include pvv/modules/*
 include pvv/modules/locales/en/LC_MESSAGES/*.mo
 include pvv/modules/locales/ru/LC_MESSAGES/*.mo
