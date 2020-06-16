@@ -40,7 +40,7 @@ Operating System :: Microsoft :: Windows
 Operating System :: POSIX :: Linux
 """
 
-with open('README_RU.md', 'r') as fh:
+with open('README.md', 'r') as fh:
     long_description = fh.read()
 
     setup(

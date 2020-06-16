@@ -7,7 +7,7 @@ __title__ = 'PVV'
 __summary__ = 'Playing photo/video data'
 __uri__ = 'https://github.com/DmitryRyumin/PVV'
 
-__version__ = '1.0.0-rc3'
+__version__ = '1.0.0-rc4'
 
 __author__ = 'Dmitry Ryumin'
 __email__ = 'dl_03.03.1991@mail.ru'
