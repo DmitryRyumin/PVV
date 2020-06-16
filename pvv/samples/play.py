@@ -16,13 +16,11 @@ import time  # Работа со временем
 import cv2  # Алгоритмы компьютерного зрения
 import numpy as np  # Научные вычисления
 import pkg_resources  # Работа с ресурсами внутри пакетов
+import sys  # Доступ к некоторым переменным и функциям python
 
 from datetime import datetime  # Работа со временем
 from PIL import Image, ImageFont, ImageDraw  # Работа с изображениями
 from types import ModuleType, FunctionType, MethodType  # Проверка объектов на модуль, метод, функцию
-
-import sys
-sys.path.append('/Users/dl/GitHub/pvv/')
 
 # Персональные
 import pvv  # Воспроизведение фото/видео данных
