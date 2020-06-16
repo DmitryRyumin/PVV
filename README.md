@@ -44,7 +44,7 @@ pip install --upgrade pvv
 `PyOpenGL` | `3.1.5` | ![PyPI](https://img.shields.io/pypi/v/PyOpenGL) |
 `Pillow` | `7.1.2` | ![PyPI](https://img.shields.io/pypi/v/Pillow) |
 
-## Class for playing photo/video data - [смотреть](https://github.com/DmitryRyumin/PVV/blob/master/pvv/viewer.py)
+## [Class for playing photo/video data](https://github.com/DmitryRyumin/PVV/blob/master/pvv/viewer.py)
 
 ### Command line arguments
 
