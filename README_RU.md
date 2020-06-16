@@ -6,7 +6,7 @@
 ![PyPI - Status](https://img.shields.io/pypi/status/pvv)
 ![PyPI - License](https://img.shields.io/pypi/l/pvv)
 
-| [История релизов](https://github.com/DmitryRyumin/PVV/blob/master/NOTES_RU.md) | [Документация на английском](https://github.com/DmitryRyumin/PVV/README.md) |
+| [История релизов](https://github.com/DmitryRyumin/PVV/blob/master/NOTES_RU.md) | [Документация на английском](https://github.com/DmitryRyumin/PVV/blob/master/README.md) |
 | --- | --- |
 
 ## Установка
@@ -40,7 +40,7 @@ pip install --upgrade pvv
 `PyOpenGL` | `3.1.5` | ![PyPI](https://img.shields.io/pypi/v/PyOpenGL) |
 `Pillow` | `7.1.2` | ![PyPI](https://img.shields.io/pypi/v/Pillow) |
 
-## Класс для воспроизведения фото/видео данных - [смотреть](https://github.com/DmitryRyumin/PVV/viewer.py)
+## Класс для воспроизведения фото/видео данных - [смотреть](https://github.com/DmitryRyumin/PVV/blob/master/pvv/viewer.py)
 
 <h4 align="center"><span style="color:#EC256F;">Примеры</span></h4>
 
