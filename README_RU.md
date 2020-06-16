@@ -122,5 +122,5 @@ pip install --upgrade pvv
     > CMD
     >
     > ```shell script
-    > pvv_play ru --file 0 --config путь_к_конфигурационному_файлу --automatic_update  --frames_to_update 50
+    > pvv_play en --file 0 --config путь_к_конфигурационному_файлу --automatic_update --frames_to_update 50
     > ```
