@@ -4,8 +4,8 @@
 """
 Воспроизведение фото/видео данных
 
-python pvv/samples/play.py [--file путь_к_фото_видео_файлу --config путь_к_конфигурационному_файлу --automatic_update
-    --frames_to_update 25 --no_clear_shell]
+python pvv/samples/play.py [<command> --file путь_к_фото_видео_файлу --config путь_к_конфигурационному_файлу
+    --frames_to_update 25 --automatic_update --no_clear_shell]
 """
 
 # ######################################################################################################################

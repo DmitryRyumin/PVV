@@ -96,3 +96,13 @@ pip install --upgrade pvv
 | ------- | -------  |
 | `esc` | Закрытие окна приложения |
 | `r` | Повторение воспроизведения видеопотока |
+
+<h4 align="center"><span style="color:#EC256F;">Примеры</span></h4>
+
+1. Загрузка классов (`apple`, `banana`, `Kitchen & dining room table`) из наборов `train`, `validation` и `test` с метками в полуавтоматическом режиме и лимитом изображений = `4` (Язык: `Русский`)
+
+    > CMD
+    >
+    > ```shell script
+    > oidv6 downloader ru --dataset путь_к_директории --type_data all --classes apple banana "Kitchen & dining room table" --limit 4
+    > ```
