@@ -75,5 +75,5 @@
     "real_time": true,
     "repeat": false,
     "fps": 60,
-    "show_labels": false
+    "show_labels": true
 }
